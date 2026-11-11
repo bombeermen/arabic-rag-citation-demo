@@ -1,0 +1,17 @@
+[
+  {"id": 1, "q_ar": "كم يوما من الإجازة السنوية يستحق الموظف البالغ من العمر 52 سنة؟", "q_en": "How many days of annual leave is a 52-year-old employee entitled to?", "gold": [4]},
+  {"id": 2, "q_ar": "ما هي ساعات العمل الرسمية؟", "q_en": "What are the official working hours?", "gold": [2]},
+  {"id": 3, "q_ar": "ما نسبة الأجر التي يتقاضاها الموظف بعد استنفاد خمسة عشر يوما من الإجازة المرضية؟", "q_en": "What share of pay does an employee receive after using up fifteen days of sick leave?", "gold": [5]},
+  {"id": 4, "q_ar": "كم تبلغ مدة إجازة الوضع؟", "q_en": "How long is maternity leave?", "gold": [6]},
+  {"id": 5, "q_ar": "ما نسبة بدل السكن من الراتب الأساسي؟", "q_en": "What percentage of the basic salary is the housing allowance?", "gold": [14]},
+  {"id": 6, "q_ar": "ما شروط الترقية؟", "q_en": "What are the conditions for promotion?", "gold": [18]},
+  {"id": 7, "q_ar": "ما مدة الإشعار المطلوبة عند تقديم الاستقالة؟", "q_en": "What notice period is required when submitting a resignation?", "gold": [25]},
+  {"id": 8, "q_ar": "كم يوما يمنح الموظف لتقديم دفاعه في التحقيق التأديبي؟", "q_en": "How many days is an employee given to submit their defense in a disciplinary investigation?", "gold": [22]},
+  {"id": 9, "q_ar": "ما الحد الأقصى لقيمة الهدية التي يجوز للموظف قبولها؟", "q_en": "What is the maximum value of a gift an employee may accept?", "gold": [23]},
+  {"id": 10, "q_ar": "كيف تحسب مكافأة نهاية الخدمة؟", "q_en": "How is the end-of-service gratuity calculated?", "gold": [26]},
+  {"id": 11, "q_ar": "هل يجوز للموظف العمل عن بعد من المنزل؟", "q_en": "May an employee work remotely from home?", "gold": null},
+  {"id": 12, "q_ar": "ما أجر الساعة الإضافية عن العمل بعد الدوام الرسمي؟", "q_en": "What is the pay rate per overtime hour for work after official hours?", "gold": null},
+  {"id": 13, "q_ar": "ما مقدار المعاش التقاعدي الشهري للموظف؟", "q_en": "What is the employee's monthly pension amount?", "gold": null},
+  {"id": 14, "q_ar": "هل تقدم الجهة قروضا سكنية للموظفين؟", "q_en": "Does the entity provide housing loans to employees?", "gold": null},
+  {"id": 15, "q_ar": "هل يستحق الموظف إجازة بأجر عند الانتقال إلى منزل جديد؟", "q_en": "Is an employee entitled to paid leave when moving to a new home?", "gold": null}
+]

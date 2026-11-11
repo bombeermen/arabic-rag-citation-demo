@@ -1,0 +1,115 @@
+{
+  "title_en": "Synthetic Civil Service Employee Regulation",
+  "title_ar": "لائحة الموظفين المدنيين (نسخة تجريبية)",
+  "articles": [
+    {"article": 1, "title_ar": "النطاق", "title_en": "Scope", "clauses": [
+      {"n": 1, "ar": "تسري أحكام هذه اللائحة على جميع الموظفين المعينين على الوظائف الدائمة في الجهات الحكومية.", "en": "This Regulation applies to all employees appointed to permanent posts in government entities."},
+      {"n": 2, "ar": "لا تسري هذه اللائحة على الموظفين المتعاقدين بعقود مؤقتة.", "en": "This Regulation does not apply to employees on temporary contracts."}
+    ]},
+    {"article": 2, "title_ar": "ساعات العمل", "title_en": "Working Hours", "clauses": [
+      {"n": 1, "ar": "ساعات العمل الرسمية سبع ساعات يوميا من الساعة 8:00 صباحا إلى الساعة 3:00 مساء.", "en": "Official working hours are seven hours daily, from 8:00 a.m. to 3:00 p.m."},
+      {"n": 2, "ar": "أيام العمل الأسبوعية من الأحد إلى الخميس.", "en": "Weekly working days are Sunday through Thursday."}
+    ]},
+    {"article": 3, "title_ar": "التأخر عن الدوام", "title_en": "Late Arrival", "clauses": [
+      {"n": 1, "ar": "يسمح للموظف بفترة سماح مدتها خمس عشرة دقيقة بعد بدء الدوام ثلاث مرات في الشهر.", "en": "An employee is allowed a grace period of fifteen minutes after the start of working hours, up to three times per month."},
+      {"n": 2, "ar": "يخصم من الراتب عن كل تأخير يتجاوز فترة السماح ما يعادل ساعات التأخير الفعلية.", "en": "For each delay exceeding the grace period, a deduction equal to the actual hours of delay is made from the salary."}
+    ]},
+    {"article": 4, "title_ar": "الإجازة السنوية", "title_en": "Annual Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة سنوية مدتها ثلاثون يوما تقويميا عن كل سنة خدمة.", "en": "An employee is entitled to annual leave of thirty calendar days for each year of service."},
+      {"n": 2, "ar": "يستحق الموظف الذي بلغ الخمسين من عمره إجازة سنوية مدتها خمسة وأربعون يوما تقويميا.", "en": "An employee who has reached the age of fifty is entitled to annual leave of forty-five calendar days."},
+      {"n": 3, "ar": "يجوز ترحيل ما لا يزيد على خمسة عشر يوما من الإجازة السنوية إلى السنة التالية.", "en": "No more than fifteen days of annual leave may be carried over to the following year."}
+    ]},
+    {"article": 5, "title_ar": "الإجازة المرضية", "title_en": "Sick Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة مرضية بأجر كامل مدتها خمسة عشر يوما في السنة بموجب تقرير طبي معتمد.", "en": "An employee is entitled to sick leave on full pay of fifteen days per year upon an approved medical report."},
+      {"n": 2, "ar": "تمنح الأيام الثلاثون التالية من الإجازة المرضية بنصف الأجر.", "en": "The following thirty days of sick leave are granted at half pay."}
+    ]},
+    {"article": 6, "title_ar": "إجازة الوضع", "title_en": "Maternity Leave", "clauses": [
+      {"n": 1, "ar": "تستحق الموظفة إجازة وضع بأجر كامل مدتها سبعون يوما.", "en": "A female employee is entitled to maternity leave on full pay of seventy days."},
+      {"n": 2, "ar": "تستحق الموظفة المرضع ساعة رضاعة يوميا لمدة ستة أشهر بعد انتهاء إجازة الوضع.", "en": "A nursing employee is entitled to a one-hour nursing break daily for six months after maternity leave ends."}
+    ]},
+    {"article": 7, "title_ar": "إجازة الأبوة", "title_en": "Paternity Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة أبوة بأجر كامل مدتها ثلاثة أيام عمل عند ولادة مولود له.", "en": "An employee is entitled to paternity leave on full pay of three working days upon the birth of a child."}
+    ]},
+    {"article": 8, "title_ar": "إجازة الوفاة", "title_en": "Bereavement Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة مدتها خمسة أيام عمل بأجر كامل عند وفاة أحد أقاربه من الدرجة الأولى.", "en": "An employee is entitled to five working days on full pay upon the death of a first-degree relative."},
+      {"n": 2, "ar": "يستحق الموظف إجازة مدتها ثلاثة أيام عمل عند وفاة أحد أقاربه من الدرجة الثانية.", "en": "An employee is entitled to three working days upon the death of a second-degree relative."}
+    ]},
+    {"article": 9, "title_ar": "إجازة الزواج", "title_en": "Marriage Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة زواج بأجر كامل مدتها خمسة أيام عمل لمرة واحدة طوال الخدمة.", "en": "An employee is entitled to marriage leave on full pay of five working days, once during the entire service."}
+    ]},
+    {"article": 10, "title_ar": "إجازة الحج", "title_en": "Hajj Leave", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف إجازة حج بأجر كامل مدتها خمسة عشر يوما لمرة واحدة طوال الخدمة.", "en": "An employee is entitled to Hajj leave on full pay of fifteen days, once during the entire service."},
+      {"n": 2, "ar": "يشترط لاستحقاق إجازة الحج أن يكون الموظف قد أمضى في الخدمة ثلاث سنوات على الأقل.", "en": "Entitlement to Hajj leave requires that the employee has completed at least three years of service."}
+    ]},
+    {"article": 11, "title_ar": "الإجازة الدراسية", "title_en": "Study Leave", "clauses": [
+      {"n": 1, "ar": "يجوز منح الموظف إجازة دراسية بدون أجر لمدة لا تتجاوز سنتين بموافقة لجنة شؤون الموظفين.", "en": "An employee may be granted unpaid study leave not exceeding two years with the approval of the Personnel Committee."},
+      {"n": 2, "ar": "يشترط أن يكون الموظف قد أمضى في الخدمة خمس سنوات على الأقل للحصول على الإجازة الدراسية.", "en": "To obtain study leave, the employee must have completed at least five years of service."}
+    ]},
+    {"article": 12, "title_ar": "فترة التجربة", "title_en": "Probation Period", "clauses": [
+      {"n": 1, "ar": "تكون فترة التجربة ستة أشهر من تاريخ مباشرة العمل.", "en": "The probation period is six months from the date of starting work."},
+      {"n": 2, "ar": "يجوز تمديد فترة التجربة مرة واحدة لمدة ثلاثة أشهر.", "en": "The probation period may be extended once for three months."},
+      {"n": 3, "ar": "يجوز إنهاء خدمة الموظف خلال فترة التجربة بإشعار مدته سبعة أيام.", "en": "An employee's service may be terminated during the probation period with seven days' notice."}
+    ]},
+    {"article": 13, "title_ar": "صرف الراتب", "title_en": "Salary Payment", "clauses": [
+      {"n": 1, "ar": "يصرف الراتب الأساسي شهريا في موعد أقصاه اليوم الخامس والعشرون من كل شهر.", "en": "The basic salary is paid monthly no later than the twenty-fifth day of each month."},
+      {"n": 2, "ar": "يصرف الراتب بالتحويل المصرفي إلى حساب الموظف.", "en": "The salary is paid by bank transfer to the employee's account."}
+    ]},
+    {"article": 14, "title_ar": "بدل السكن", "title_en": "Housing Allowance", "clauses": [
+      {"n": 1, "ar": "يصرف للموظف بدل سكن شهري بنسبة خمسة وعشرين بالمائة من الراتب الأساسي.", "en": "An employee is paid a monthly housing allowance of twenty-five percent of the basic salary."}
+    ]},
+    {"article": 15, "title_ar": "بدل النقل", "title_en": "Transport Allowance", "clauses": [
+      {"n": 1, "ar": "يصرف للموظف بدل نقل شهري ثابت قدره أربعمائة وحدة نقدية.", "en": "An employee is paid a fixed monthly transport allowance of four hundred monetary units."},
+      {"n": 2, "ar": "يوقف بدل النقل خلال الإجازة الدراسية.", "en": "The transport allowance is suspended during study leave."}
+    ]},
+    {"article": 16, "title_ar": "العلاوة السنوية", "title_en": "Annual Increment", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف علاوة سنوية بنسبة ثلاثة بالمائة من الراتب الأساسي.", "en": "An employee is entitled to an annual increment of three percent of the basic salary."},
+      {"n": 2, "ar": "يشترط لاستحقاق العلاوة ألا يقل تقييم أداء الموظف عن «جيد».", "en": "Entitlement to the increment requires that the employee's performance rating is not lower than 'Good'."}
+    ]},
+    {"article": 17, "title_ar": "تقييم الأداء", "title_en": "Performance Evaluation", "clauses": [
+      {"n": 1, "ar": "يجرى تقييم أداء الموظف مرة واحدة كل سنة خلال شهر يناير.", "en": "The employee's performance is evaluated once every year during January."},
+      {"n": 2, "ar": "مستويات التقييم أربعة هي: ممتاز، وجيد جدا، وجيد، وضعيف.", "en": "There are four rating levels: Excellent, Very Good, Good, and Poor."},
+      {"n": 3, "ar": "يجوز للموظف الاعتراض على نتيجة التقييم خلال خمسة عشر يوما من إبلاغه بها.", "en": "An employee may object to the evaluation result within fifteen days of being notified of it."}
+    ]},
+    {"article": 18, "title_ar": "الترقية", "title_en": "Promotion", "clauses": [
+      {"n": 1, "ar": "يشترط للترقية أن يكون الموظف قد أمضى أربع سنوات على الأقل في درجته الحالية.", "en": "Promotion requires that the employee has spent at least four years in the current grade."},
+      {"n": 2, "ar": "يشترط للترقية حصول الموظف على تقييم «جيد جدا» على الأقل في آخر سنتين.", "en": "Promotion requires that the employee has received a rating of at least 'Very Good' in the last two years."}
+    ]},
+    {"article": 19, "title_ar": "التدريب", "title_en": "Training", "clauses": [
+      {"n": 1, "ar": "على الموظف إكمال أربعين ساعة تدريبية على الأقل في السنة.", "en": "An employee must complete at least forty training hours per year."},
+      {"n": 2, "ar": "يعتمد المدير المباشر طلب الالتحاق بالدورة التدريبية.", "en": "The direct manager approves the request to enroll in a training course."}
+    ]},
+    {"article": 20, "title_ar": "السفر الرسمي", "title_en": "Official Travel", "clauses": [
+      {"n": 1, "ar": "يصرف للموظف بدل سفر يومي قدره مائة وخمسون وحدة نقدية عن كل يوم سفر رسمي داخل الدولة.", "en": "An employee is paid a daily travel allowance of one hundred and fifty monetary units for each day of official domestic travel."},
+      {"n": 2, "ar": "تسدد تذكرة السفر الرسمي على الدرجة السياحية.", "en": "The ticket for official travel is paid for in economy class."}
+    ]},
+    {"article": 21, "title_ar": "العقوبات التأديبية", "title_en": "Disciplinary Penalties", "clauses": [
+      {"n": 1, "ar": "العقوبات التأديبية هي: الإنذار، والخصم من الراتب، والإيقاف عن العمل، والفصل من الخدمة.", "en": "The disciplinary penalties are: warning, salary deduction, suspension from work, and dismissal from service."},
+      {"n": 2, "ar": "لا يجوز أن يتجاوز الخصم من الراتب خمسة أيام عن المخالفة الواحدة.", "en": "A salary deduction may not exceed five days for a single violation."}
+    ]},
+    {"article": 22, "title_ar": "إجراءات التأديب", "title_en": "Disciplinary Procedure", "clauses": [
+      {"n": 1, "ar": "يبلغ الموظف كتابة بالمخالفة المنسوبة إليه.", "en": "The employee is notified in writing of the violation attributed to them."},
+      {"n": 2, "ar": "يمنح الموظف سبعة أيام لتقديم دفاعه كتابة.", "en": "The employee is given seven days to submit their defense in writing."},
+      {"n": 3, "ar": "يجري التحقيق لجنة مكونة من ثلاثة أعضاء.", "en": "The investigation is conducted by a committee of three members."}
+    ]},
+    {"article": 23, "title_ar": "تضارب المصالح", "title_en": "Conflict of Interest", "clauses": [
+      {"n": 1, "ar": "يحظر على الموظف قبول هدية تزيد قيمتها على مائة وحدة نقدية.", "en": "An employee is prohibited from accepting a gift whose value exceeds one hundred monetary units."},
+      {"n": 2, "ar": "يجب على الموظف الإفصاح كتابة لمديره المباشر عن أي تضارب في المصالح.", "en": "An employee must disclose any conflict of interest in writing to their direct manager."}
+    ]},
+    {"article": 24, "title_ar": "السرية", "title_en": "Confidentiality", "clauses": [
+      {"n": 1, "ar": "يلتزم الموظف بالحفاظ على سرية المعلومات التي يطلع عليها بحكم عمله.", "en": "An employee must keep confidential the information they access by virtue of their work."},
+      {"n": 2, "ar": "يستمر هذا الالتزام لمدة خمس سنوات بعد انتهاء الخدمة.", "en": "This obligation continues for five years after the end of service."}
+    ]},
+    {"article": 25, "title_ar": "الاستقالة", "title_en": "Resignation", "clauses": [
+      {"n": 1, "ar": "تقدم الاستقالة كتابة إلى المدير المباشر قبل ثلاثين يوما من التاريخ المطلوب.", "en": "A resignation is submitted in writing to the direct manager thirty days before the requested date."},
+      {"n": 2, "ar": "تعد الاستقالة مقبولة إذا لم يرد عليها خلال ثلاثين يوما من تقديمها.", "en": "A resignation is deemed accepted if no response is given within thirty days of its submission."}
+    ]},
+    {"article": 26, "title_ar": "مكافأة نهاية الخدمة", "title_en": "End-of-Service Gratuity", "clauses": [
+      {"n": 1, "ar": "يستحق الموظف مكافأة نهاية خدمة تعادل راتب نصف شهر أساسي عن كل سنة من السنوات الخمس الأولى.", "en": "An employee is entitled to an end-of-service gratuity equal to half a month of basic salary for each of the first five years."},
+      {"n": 2, "ar": "تحسب المكافأة عن كل سنة بعد السنوات الخمس الأولى بما يعادل راتب شهر أساسي كامل.", "en": "For each year after the first five years, the gratuity is calculated as one full month of basic salary."}
+    ]},
+    {"article": 27, "title_ar": "التظلمات", "title_en": "Grievances", "clauses": [
+      {"n": 1, "ar": "يقدم الموظف تظلمه كتابة إلى إدارة الموارد البشرية خلال ثلاثين يوما من علمه بالقرار.", "en": "An employee submits their grievance in writing to the Human Resources Department within thirty days of learning of the decision."},
+      {"n": 2, "ar": "تبت الإدارة في التظلم خلال خمسة عشر يوما من تاريخ تقديمه.", "en": "The Department decides on the grievance within fifteen days of its submission."}
+    ]}
+  ]
+}
