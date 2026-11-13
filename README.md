@@ -28,11 +28,14 @@ Total cost of the full run: about 14.6k tokens with Claude Haiku. Per-question o
 
 ## Run it
 
-Requires Python 3.12.
+You need: Python 3.12, Git, and your own Anthropic API key (create one at https://console.anthropic.com/settings/keys; a few dollars of credit is plenty, the full evaluation costs a few cents). Commands below are for Windows PowerShell; on macOS/Linux use `python3`, `.venv/bin/python` and `export ANTHROPIC_API_KEY=...`.
 
 ```powershell
+git clone https://github.com/bombeermen/arabic-rag-citation-demo.git
+cd arabic-rag-citation-demo
+
 python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install anthropic
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 
 # set the key for this terminal session only (not stored in any file)
 $secure = Read-Host "Anthropic API key" -AsSecureString
